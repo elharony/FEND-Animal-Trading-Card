@@ -8,8 +8,7 @@ It is about creating an animal card contains:
 - List items
 - Description _( I wrote something personal there! )_
 
-
-➥ Check the [Live Preview Here](https://elharony.github.io/Front-end-Nanodegree/Animal%20Trading%20Cards/card.html)!
+➥ Check the [Live Preview Here](https://elharony.github.io/FEND-Animal-Trading-Card/)!
 
 Here is the final result of the project:
 
