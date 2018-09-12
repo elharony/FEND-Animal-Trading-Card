@@ -1,5 +1,5 @@
-# Project 1 - Animal Trading Cards
-This is the first project in [Udacity | Front-End Web Developer Nanodegree](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001) Program
+# Animal Trading Cards
+A Custom HTML/CSS card built to give us some information about a specific Animal
 
 It is about creating an animal card contains:
 - Name
